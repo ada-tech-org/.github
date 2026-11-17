@@ -14,10 +14,11 @@ behavior and practical impact. Include when it started or last worked if known. 
 
 ## Reproduction and evidence
 <!-- Give the smallest useful reproduction: starting conditions, steps or input,
-and the actual result. Prefer a form that can be run, such as a command, script or
-failing test. Identify the relevant environment, version or revision when known,
-and whether the problem is consistent or intermittent. Paste exact error text and
-the relevant log lines; link screenshots or failing runs as supporting evidence.
+and the actual result. Where practical, provide a runnable command, script or
+failing test; manual interaction steps are also valid. Identify the relevant
+environment, version or revision when known, and whether the problem is consistent
+or intermittent. Paste exact error text and relevant log lines when available;
+link screenshots or failing runs as supporting evidence.
 Redact secrets and sensitive data. If it cannot be reproduced reliably, describe
 the observations available. -->
 
@@ -37,6 +38,7 @@ the behavior. Do not repeat checks already clear from the expected behavior. -->
 
 ## Dependencies and open questions
 <!-- Set a parent epic or blocking issues with GitHub's sub-issue and blocked-by
-links when relevant, and link other related issues here. State gaps that affect
+links when relevant. If you cannot set a relationship, include the issue link and
+intended relationship here. Link other related issues here too. State gaps that affect
 the fix or its verification, distinguishing blockers from questions that can be
 answered during investigation. -->

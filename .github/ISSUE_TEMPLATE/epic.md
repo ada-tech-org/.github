@@ -18,8 +18,9 @@ constraints apply? Link work owned elsewhere. Separate agreed scope from ideas
 that still need a decision. -->
 
 ## Work breakdown
-<!-- Add child issues as sub-issues instead of listing them here. Explain their
-contribution or sequence where useful. Identify cross-repository work. Mark
+<!-- Add child issues as sub-issues instead of listing them here. If you cannot set
+a relationship, include the issue link and intended relationship here. Explain
+contributions or sequence where useful. Identify cross-repository work. Mark
 candidate follow-ups as tentative; a complete implementation plan is not required
 upfront. -->
 

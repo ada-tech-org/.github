@@ -11,7 +11,8 @@ Remove these guidance comments from the final issue. -->
 
 ## Outcome and context
 <!-- What needs to change, and why? Describe the intended benefit, then what
-happens today and essential context from earlier discussions or decisions. -->
+happens today and essential context from earlier discussions or decisions,
+including decisions from a parent epic that shape this work. -->
 
 ## Scope and constraints
 <!-- Define what this issue covers and any adjacent work it excludes. Identify
@@ -37,7 +38,7 @@ to verify the result, combine this section with them instead of repeating it. --
 
 ## Dependencies and open questions
 <!-- Set the parent epic and any blocking issues with GitHub's sub-issue and
-blocked-by links; standalone tasks are welcome. Here, summarise decisions from the
-epic that shape this work and say what each dependency blocks. State unanswered
-questions and which must be resolved before implementation; do not supply assumed
-answers. -->
+blocked-by links; standalone tasks are welcome. If you cannot set a relationship,
+include the issue link and intended relationship here. Explain what each dependency
+blocks. State unanswered questions and which must be resolved before implementation;
+do not supply assumed answers. -->
