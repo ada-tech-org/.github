@@ -4,7 +4,8 @@ about: Research or experiment to resolve uncertainty and guide subsequent work.
 ---
 
 <!-- Define the uncertainty to resolve, not a solution that must be proved right.
-The result may be a recommendation, a ruled-out approach or a need for further work. -->
+The result may be a recommendation, a ruled-out approach or a need for further work.
+Remove these guidance comments from the final issue. -->
 
 ## Context and decision to inform
 <!-- Why is this investigation needed? Explain the current situation and the
@@ -19,7 +20,7 @@ optional exploration so the investigation stays focused. -->
 with a short explanation of each. Separate confirmed facts from hypotheses and
 identify missing inputs or access needed to investigate. -->
 
-## Boundaries and time limit
+## Scope and time limit
 <!-- Define what is in and out of scope, including whether a prototype is useful.
 Agree on a time or effort limit before starting; record it here or say it is still
 to be agreed. Include relevant constraints, such as cost or environment access.
