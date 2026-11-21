@@ -8,11 +8,11 @@ the text even though the page hides them.
   was agreed), any scope added, and any open question it settles.
 - Report only checks that were actually run. A check affected by later changes that
   you cannot re-run goes under "Not verified" only.
-- In the title, description and commit messages, do not put "closes", "fixes",
-  "resolves" or any variant directly before an issue reference; use `Refs`. GitHub
-  would close the issue on merge (a title can become the commit message), and
-  issues stay open until the merged change is verified in the development
-  environment.
+- Link the issue this PR delivers with `Closes #123`, so merging closes it. Use
+  `Refs #123` instead when this PR delivers only part of the issue, and for every
+  other issue mentioned. Elsewhere in the title, description and commit messages,
+  do not put "closes", "fixes", "resolves" or any variant directly before an issue
+  reference: GitHub would close that issue on merge too.
 - Reference only issues that exist. -->
 
 ## Summary
@@ -27,8 +27,8 @@ approach. No file-by-file list. -->
 checked, including any behavior claimed here that nothing tested. -->
 
 ## Related issues
-<!-- `Refs #123` for the issue this PR delivers, then other related issues with the
-relationship in words. -->
+<!-- `Closes #123` for the issue this PR delivers (`Refs #123` if it delivers only
+part of it), then other related issues with `Refs` and the relationship in words. -->
 
 ## Notes for reviewers
 <!-- Where to look closely, decisions needed, and merge, deployment or rollback
